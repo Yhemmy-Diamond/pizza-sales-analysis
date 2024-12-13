@@ -25,9 +25,9 @@ The following are the insights gotten from the analysis:
 5. Best Selling Product: The Thai Chicken Pizza generates the maximum revenue, while the Classic Deluxe Pizza leads in both total quantity sold and orders.
 6. Worst Selling Product: The Brie Carré Pizza performs the worst in revenue, quantity sold and orders.
 
-**Recommendations**\
+### Recommendations
 Based on the Pizza Sales Report, here are actionable recommendations for the management: 
-1. Capitalize on Best Sellers\
+**1. Capitalize on Best Sellers**\
 **Promote High Revenue Pizzas:** Highlight the Thai Chicken Pizza in marketing campaigns to leverage its strong revenue performance. Analyse external factors that might have impacted its sales in the market to ascertain  possible measures to put in place so as to be able to take advantage of it. 
 **Enhance Availability of Classic Deluxe Pizza:** Since it leads in quantity and orders, ensure sufficient stock of its ingredients and focus on its upselling potential.
 2. Improve Performance of Worst Sellers
